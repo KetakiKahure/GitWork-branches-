@@ -1,1 +1,2 @@
-Version control using Git 
+Version control using Git git init
+Branching and merging
